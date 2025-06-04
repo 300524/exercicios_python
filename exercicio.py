@@ -7,7 +7,7 @@ verificar se foi aprendido sobre variavél
 nome = 'Kleber'
 sobrenome = 'Marques'
 idade = 37
-ano__nascimento = 1988
+ano__nascimento = 2025 - idade
 maior_de_idade = (idade >= 18)
 altura_metros = 1.75
 
